@@ -1,1 +1,1 @@
-var nombre= "Israel_";
+var nombre= "Israe";
